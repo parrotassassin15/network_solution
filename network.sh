@@ -4,6 +4,8 @@
 
 echo "PLZ MAKE SURE SECURE BOOT IS DISABLED IN YOUR BIOS"
 sleep 5
+#makes sure the directory is out of the way
+cd /opt
 #installs depencies
 sudo apt install bc module-assistant build-essential dkms
 sudo apt-get install --reinstall git dkms build-essential linux-headers-$(uname -r)
