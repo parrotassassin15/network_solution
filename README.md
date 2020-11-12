@@ -12,3 +12,17 @@ cd /opt
 <pre>
 sudo git clone https://github.com/JokerTwin2-DEV/network_solution.git
 </pre>
+
+<pre>
+sudo chmod +x network.sh
+</pre>
+
+<pre>
+sudo ./network.sh
+</pre>
+
+<pre>
+sudo reboot
+</pre>
+
+after doing all that you should have wifi again 
