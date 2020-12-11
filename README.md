@@ -13,8 +13,14 @@ cd /opt
 sudo git clone https://github.com/JokerTwin2-DEV/network_solution.git
 </pre>
 
+for debian:
 <pre>
-sudo chmod +x network.sh
+sudo chmod +x debian-network.sh
+</pre>
+
+for arch:
+<pre>
+sudo chmod +x arch-network.sh
 </pre>
 
 <pre>
