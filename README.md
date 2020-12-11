@@ -4,7 +4,7 @@ this script will install the firmware and drivers neccesary for a wifi connectio
 and that you have secure boot disabled i hope this helps
 
 
-usage:
+download:
 <pre>
 cd /opt
 </pre>
@@ -23,6 +23,7 @@ for arch:
 sudo chmod +x arch-network.sh
 </pre>
 
+to run:
 <pre>
 sudo ./network.sh
 </pre>
